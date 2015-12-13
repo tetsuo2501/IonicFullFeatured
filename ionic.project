@@ -1,0 +1,11 @@
+{
+  "name": "c4notify",
+  "app_id": "",
+  "gulpStartupTasks": [    
+    "watch"
+  ],
+  "watchPatterns": [
+    //"www/**/*",
+    //"!www/lib/**/*"
+  ]
+}

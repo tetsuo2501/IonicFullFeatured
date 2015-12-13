@@ -1,0 +1,9 @@
+{
+	"globals":{		
+		"angular": true
+	},
+	"undef": true,
+	"browser": true,
+	"jquery": true,
+	"devel": true
+}

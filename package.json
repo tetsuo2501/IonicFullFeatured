@@ -1,0 +1,51 @@
+{
+  "name": "c4notify",
+  "version": "1.1.1",
+  "description": "c4notify: An Ionic project",
+  "dependencies": {
+    "gulp": ">=3.5.6",
+    "gulp-sass": ">=2.0.4",
+    "gulp-concat": ">=2.2.0",
+    "gulp-minify-css": ">=0.3.0",
+    "gulp-rename": ">=1.2.0"
+  },
+  "devDependencies": {
+    "bower": ">=1.3.3",
+    "browser-sync": ">=2.10.0",
+    "event-stream": "^3.3.2",
+    "gulp": ">=3.9.0",
+    "gulp-chug": "^0.4.2",
+    "gulp-concat": ">=2.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-inject": ">=3.0.0",
+    "gulp-jshint": ">=2.0.0",
+    "gulp-typescript": "^2.10.0",
+    "gulp-uglify": ">=1.5.1",
+    "gulp-useref": ">=3.0.3",
+    "gulp-util": ">=2.2.14",
+    "jasmine-core": "^2.4.1",
+    "jshint": ">=2.8.0",
+    "jshint-stylish": ">=2.1.0",
+    "karma": "^0.13.15",
+    "karma-jasmine": "^0.3.6",
+    "karma-nyan-reporter": "^0.2.3",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "path": "^0.12.7",
+    "phantomjs": "^1.9.19",
+    "rimraf": "^2.4.4",
+    "run-sequence": "^1.1.5",
+    "shelljs": ">=0.3.0",
+    "wiredep": ">=2.2.2"
+  },
+  "cordovaPlugins": [
+    "cordova-plugin-device",
+    "cordova-plugin-console",
+    "cordova-plugin-whitelist",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-statusbar",
+    "ionic-plugin-keyboard"
+  ],
+  "cordovaPlatforms": [
+    "android"
+  ]
+}

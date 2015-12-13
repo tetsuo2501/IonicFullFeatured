@@ -1,0 +1,10 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "angular-mocks": "~1.4.8"
+  },
+  "dependencies": {
+    "ionic": "#1.1.1"
+  }
+}
